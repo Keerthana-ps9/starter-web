@@ -1,1 +1,0 @@
-notepad .github\workflows\ci.yml
